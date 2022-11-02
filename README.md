@@ -6,3 +6,6 @@ In this project, we play the role of a product analyst for an online sports clot
 
 - Check out my Jupyter notebook for queries and thoughts process in PostgreSQL.
 - You can also check the viz I created for this project on [Tableau](https://public.tableau.com/views/OptimizingOnlineSportRetailRevenue/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+![Dashboard 1](https://user-images.githubusercontent.com/113878177/199422009-d5f6ade4-96bf-42c3-9471-ef73e83457cf.png)
